@@ -1,0 +1,5 @@
+[MESSAGE CONTROL]
+disable=locally-disabled,missing-docstring,no-self-use
+
+[REPORTS]
+reports=no
